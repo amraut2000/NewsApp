@@ -5,9 +5,10 @@ It also provides the news according to category and search.
 
 
 
-![News1](https://user-images.githubusercontent.com/83871640/118280079-7ba93b00-b4e9-11eb-9920-45ff0a8a4063.jpg)
-![News2](https://user-images.githubusercontent.com/83871640/118280184-95e31900-b4e9-11eb-87a1-45eea6550cda.jpg)
-![News3](https://user-images.githubusercontent.com/83871640/118280195-98457300-b4e9-11eb-872b-8aad81778e8c.jpg)
+![News3 ](https://user-images.githubusercontent.com/83871640/118281703-253cfc00-b4eb-11eb-831b-480187dd4ad8.jpg)
+![News2 ](https://user-images.githubusercontent.com/83871640/118281711-2837ec80-b4eb-11eb-89d9-9137f30b3a08.jpg)
+![News1 ](https://user-images.githubusercontent.com/83871640/118281723-2b32dd00-b4eb-11eb-8a09-4e9d21405784.jpg)
+
 
 
 
