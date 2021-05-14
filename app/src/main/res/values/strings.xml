@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="search_in_everything">Search in everything...</string>
+</resources>
